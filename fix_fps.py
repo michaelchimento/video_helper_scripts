@@ -3,7 +3,7 @@ from os import listdir
 from os.path import isfile, isdir, join, splitext
 from subprocess import CalledProcessError
 
-#open 'smb://mchimento:Ice18cream!@r-zfssvr01.top.orn.mpg.de' run this in terminal first to mount smb
+#open 'smb://mchimento:#########@r-zfssvr01.top.orn.mpg.de' run this in terminal first to mount smb
 
 
 basepath = "/Volumes/grpLucy/"
